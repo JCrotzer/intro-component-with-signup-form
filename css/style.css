@@ -206,7 +206,7 @@ small {
     }
 
     .info h1 {
-        margin: -40px 10px 30px 20px;
+        margin: -40px 10px 30px 30px;
         color: var(--White);
         font-size: 46px;
         font-weight: 700;
@@ -248,7 +248,7 @@ small {
     }
     
     .free-trial {
-        width: 400px;
+        width: 420px;
     }
 
     footer {
@@ -277,6 +277,6 @@ small {
     
     small {
         color: var(--Red);
-        margin: 5px 0 0 210px;
+        margin: 3px 0 0 210px;
     }
 }
