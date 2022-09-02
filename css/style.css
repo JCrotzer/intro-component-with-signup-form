@@ -196,7 +196,7 @@ small {
     }
 
     .info {
-        width: 420px;
+        width: 520px;
         display: flex;
         flex-direction: column;
         align-items: flex-start;
@@ -204,33 +204,33 @@ small {
     }
 
     .info h1 {
-        margin: 0 30px 30px 50px;
+        margin: -40px 10px 30px 20px;
         color: var(--White);
-        font-size: 38px;
+        font-size: 46px;
         font-weight: 500;
-        line-height: 40px;
+        line-height: 45px;
         text-align: left;
     }
 
     .info p {
-        font-size: 12px;
+        font-size: 16px;
         text-align: left;
-        margin: 0 0 0 50px;
+        margin: 0 0 0 20px;
     }
 
     .claim-info {
-        width: 450px;
-        height: 500px;
+        width: 500px;
+        height: 400px;
         padding-top: 30px;
     }
 
     .trial {
-        width: 450px;
+        width: 500px;
         height: 50px;
     }
 
     input {
-        width: 380px;
+        width: 400px;
         height: 40px;
         border: 1px solid var(--Grayish-Blue);
         border-radius: 5px;
@@ -246,7 +246,7 @@ small {
     }
 
     footer {
-        margin: 0 auto;
+        margin: -15px auto 0 auto;
     }
 
     .error-icon-first {

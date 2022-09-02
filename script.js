@@ -58,36 +58,3 @@ handlesubmit = event => {
         errorIconPassword.classList.remove("d-block");
     }
 }
-
-
-
-
-// const checkFirstName =  function () {
-//     fname.style.border = "2px solid #FF7979";
-//     fname.setAttribute("placeholder", "");
-//     errorMesgFirst.classList.remove(".d-none");
-//     errorIconFirst.classList.remove(".d-none");
-// };
-
-// submit.addEventListener("click", function () {
-//     if (fname === "") {
-//     } else {
-//         checkFirstName();
-//     }
-// })
-
-
-
-// const inputboxes = document.querySelectorAll('input');
-// const box = document.querySelectorAll('.box');
-
-// document.querySelector('.submit').addEventListener('click', function (e) {
-//     inputboxes.forEach(input => {
-//         if (input.value === '') {
-//             input.style.border = '1px solid red';
-//             input.nextSibling.remove();
-//         } else {
-
-//         }
-//     })
-// });
