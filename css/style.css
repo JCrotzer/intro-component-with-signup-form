@@ -226,6 +226,10 @@ small {
         padding-top: 30px;
     }
 
+    .sign-up {
+        margin: 50px auto;
+    }
+
     .trial {
         width: 500px;
         height: 50px;
