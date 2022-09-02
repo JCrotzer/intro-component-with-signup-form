@@ -198,7 +198,7 @@ small {
     }
 
     .info {
-        width: 520px;
+        width: 530px;
         display: flex;
         flex-direction: column;
         align-items: flex-start;
@@ -206,7 +206,7 @@ small {
     }
 
     .info h1 {
-        margin: -40px 10px 30px 30px;
+        margin: -40px 10px 30px 20px;
         color: var(--White);
         font-size: 46px;
         font-weight: 700;
@@ -217,7 +217,7 @@ small {
     .info p {
         font-size: 16px;
         text-align: left;
-        margin: 0 0 0 20px;
+        margin: 0 10px 0 20px;
     }
 
     .claim-info {
