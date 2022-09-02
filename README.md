@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/JCrotzer/intro-component-with-signup-form.git
-- Live Site URL:  
+- Live Site URL: https://jcrotzer.github.io/intro-component-with-signup-form/  
 
 ## My process
 Built mobile first doing HTML,CSS and then JS
